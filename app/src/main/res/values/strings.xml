@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Clinic Locator</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+
 </resources>
